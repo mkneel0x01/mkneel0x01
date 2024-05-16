@@ -1,7 +1,5 @@
-### Hi there 👋,
+### Hi there 👋👨‍💻, 
 "Hi! I am MK Neel, a software developer focused on crafting great software experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into software development since 2015. I enjoy creating beautifully designed, intuitive and functional websites & mobile applications ."
-
-Skills: HTML/CSS/JS/PHP/Dart/Flutter
 
 
 
@@ -9,9 +7,7 @@ Skills: HTML/CSS/JS/PHP/Dart/Flutter
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-neel)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mk-neel&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mk-neel/contributions?format=svg&private=false)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mk-neel)  
 
