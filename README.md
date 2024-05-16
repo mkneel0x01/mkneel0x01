@@ -1,8 +1,4 @@
-# Hi I'm Neel 👋👨‍💻
-
-<!--
-**mk-neel/mk-neel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋,
 "Hi! I am MK Neel, a software developer focused on crafting great software experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into software development since 2015. I enjoy creating beautifully designed, intuitive and functional websites & mobile applications ."
 
 Skills: HTML/CSS/JS/PHP/Dart/Flutter
@@ -19,5 +15,3 @@ Skills: HTML/CSS/JS/PHP/Dart/Flutter
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mk-neel/contributions?format=svg&private=false)  
 
-
--->
